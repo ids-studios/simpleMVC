@@ -37,5 +37,8 @@ After this you have to navigate to app/config/config.php and edit the URLROOT an
 In order to create new page, you need to create the page in view/pages/ with name and design you want, after this is done you need to go to controllers/Pages.php and create a new public function with the name desired and set setView('pages/example');
 Check controllers/Pages.php for the example method and view/pages/example.php. 
 
+## Example
+[simpleMVC-Example](https://github.com/ids-studios/simpleMVC-Example)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
