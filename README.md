@@ -4,7 +4,7 @@ An simple php Model View Controller.
 ## Installation
 
 Upload the simpleMVC project on your web hosting or local machine, modify the .htaccess to point the right directory and then navigate to the location of the app. You should see an starter template with some information on how to modify the simpleMVC project. 
-After this you have to navigate to app/config/config.php and edit the Database information there.
+After this you have to navigate to app/config/config.php and edit the URLROOT and database information there.
 
 ## Usage of the database class(PDO)
 ```php
